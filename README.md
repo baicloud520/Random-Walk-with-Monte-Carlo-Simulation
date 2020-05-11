@@ -1,1 +1,1 @@
-# Random-Walk-wih-Monte-Carlo-Simulation
+# Random-Walk-with-Monte-Carlo-Simulation
